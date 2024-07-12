@@ -1,0 +1,28 @@
+{
+  "name": "11-cafeteria",
+  "version": "1.0.0",
+  "description": "Proyecto Plantilla SASS Gulp css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Garcia",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "cssnano": "^7.0.4",
+    "gulp": "^4.0.2",
+    "gulp-avif": "^1.1.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-webp": "^4.0.0",
+    "postcss": "^8.4.38",
+    "sass": "^1.77.5"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%"
+  ]
+}
